@@ -1,0 +1,17 @@
+fab data --> 
+https://www.altium.com/documentation/altium-designer/preparing-for-manufacture/output-jobs/fabrication-data
+
+layer thickness --> 
+https://resources.altium.com/p/4-layer-pcb-stackup
+
+BOM report --> 
+https://www.altium.com/documentation/altium-designer/preparing-for-manufacture/output-jobs/bom-report-manager
+
+graphics in PCB --> 
+https://www.altium.com/documentation/knowledge-base/altium-designer/place-a-logo-graphic-into-a-pcb
+
+solving zero-area regions --> 
+https://www.altium.com/documentation/knowledge-base/altium-designer/resolving-un-routed-net-dead-copper-drc-violations
+
+about signal layer polygons --> 
+https://www.altium.com/documentation/altium-designer/pcb/signal-layer-polygons#understanding-the-look-ahead-feature
